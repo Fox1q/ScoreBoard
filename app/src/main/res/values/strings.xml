@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScoreBoard</string>
+    <string name="left_team_name">Virtus Pro</string>
+    <string name="right_team_name">Natus Vincere</string>
+    <string name="startedScore">0</string>
+    <string name="reset">Reset</string>
+</resources>
